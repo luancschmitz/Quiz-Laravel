@@ -2,7 +2,7 @@
 
 * Criar uma base de Dados com o nome "quiz" no MySQL.
 * Copiar o arquivo .env.example e renomea-lo para ".env",  alterar os dados de conexao com o banco como usuário e senha
-* Acessar o projeto pelo terminal, e rodar o comando "composer update"
+* Acessar o projeto pelo terminal, e rodar o comando "composer install"
 * Dar as permissões para as pastas storage, bootstrap/cache e public
 * Rodar o comando "php artisan migrate" para criar as tabelas do banco
 * Rodar o comando "php artisan key:generate"
